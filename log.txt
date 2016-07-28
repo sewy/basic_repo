@@ -1,0 +1,2 @@
+
+1.	Adding content to index, syle, and this log to be staged and commited and then pushed to Github
